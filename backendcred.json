@@ -1,0 +1,12 @@
+{
+  "SMTP_CRED":{
+    "SMTP_EMAIL_USERNAME": "mrige***************.com", 
+    "FROM_EMAIL":  "test@test.com",
+    "SMTP_EMAIL_PASSWORD": "***************",
+    "SMTP_EMAIL_HOST": "*****************",
+    "SMTP_EMAIL_PORT": "****"
+  },
+  "RABBIT_MQ_CRED": {
+    "QUEUE_PROCESS": "amqp://guest:guest@localhost"
+  }
+}

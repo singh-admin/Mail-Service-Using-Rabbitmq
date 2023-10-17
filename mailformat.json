@@ -1,0 +1,8 @@
+{
+  "EMAIL_FORMAT": {
+    "NOTIFY": [
+      "Test: New Notification",
+      "<p><b>Mail Service using RabbitMq (Mailtrap.io SMTP)</b></p><img src=\"https://www.linkpicture.com/q/Captains_Headshot_Resize_Sebastian-Ramirez_600x600_v1.jpg\" width=\"100\" height=\"100\"><br><br><strong>name: {}</strong>"
+    ]
+  }
+}
